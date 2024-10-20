@@ -1,0 +1,37 @@
+/* body{
+   background-color: #ccc;
+}
+.form {
+   margin-left: 170px;
+}
+.form h3{
+    margin-left: 70px;
+    margin-top: 50;
+}
+.form button{
+    margin-top: 10px;
+    width: 170px;
+background-color: blue;
+color: #ccc;
+} */
+ 
+/* body{
+    background-color: aquamarine;
+} */
+#section {
+width: 200px;
+height: 100px;
+margin: 20vh auto 10 auto ;
+padding: 20px;
+background-color: wheat;
+border-radius: 5px;
+font-size: 12px;
+}
+section h3{
+margin-top: 60px;
+}
+section label{
+    margin-top: -50px  ;
+}
+
+
